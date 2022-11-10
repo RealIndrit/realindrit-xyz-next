@@ -69,4 +69,4 @@ pids
 *.tsbuildinfo
 next-env.d.ts
 
-/styles/styles.css
+/app/tailwindcss.css
